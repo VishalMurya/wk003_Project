@@ -9,3 +9,7 @@ def Addition(a,b):
 def subtraction (c,d):
     sub = c - d
     return sub
+
+def Addition(a,b,c):
+    sum = a + b + c
+    return sum
