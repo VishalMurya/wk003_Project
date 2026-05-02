@@ -210,4 +210,4 @@ __marimo__/
 
 # others 
 modules.txt
-notebook.ipynb 
+.env
